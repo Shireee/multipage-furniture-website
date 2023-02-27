@@ -21,5 +21,8 @@
     "sass": "^1.58.0",
     "slick-carousel": "^1.8.1"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7"
+  }
 }
